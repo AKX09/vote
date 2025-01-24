@@ -1,0 +1,10 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+
+button{
+    border: 0;
+    padding: 0;
+    background: none;
+}
